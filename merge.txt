@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is saibranch file
+=======
+this is master branch file
+>>>>>>> master
